@@ -109,12 +109,6 @@
                 "category": ""
             },
             {
-                "name": "For Garam masala",
-                "unit_name": "",
-                "quantity": "",
-                "category": ""
-            },
-            {
                 "quantity": "2",
                 "unit_name": "",
                 "name": "Mace (Javitri)",
@@ -165,7 +159,8 @@
         ],
         "recipe_cuisine": "Indian",
         "recipe_courses": [
-            "Main Dish"
+            "Main Dish",
+            "Lunch"
         ],
         "recipe_specialdiets": [
             "Non-Vegetarian"
@@ -273,7 +268,8 @@
         ],
         "recipe_cuisine": "Indian",
         "recipe_courses": [
-            "Main Dish"
+            "Main Dish",
+            "Lunch"
         ],
         "recipe_specialdiets": [
             "Non-Vegetarian"
@@ -391,7 +387,8 @@
         ],
         "recipe_cuisine": "Indian",
         "recipe_courses": [
-            "Main Dish"
+            "Main Dish",
+            "Lunch"
         ],
         "recipe_specialdiets": [
             "Non-Vegetarian"
@@ -477,7 +474,8 @@
         ],
         "recipe_cuisine": "Indian",
         "recipe_courses": [
-            "Main Dish"
+            "Main Dish",
+            "Lunch"
         ],
         "recipe_specialdiets": [
             "Non-Vegetarian"
@@ -581,7 +579,8 @@
         ],
         "recipe_cuisine": "Indian",
         "recipe_courses": [
-            "Main Dish"
+            "Main Dish",
+            "Lunch"
         ],
         "recipe_specialdiets": [
             "Non-Vegetarian"
@@ -686,7 +685,8 @@
         ],
         "recipe_cuisine": "Indian",
         "recipe_courses": [
-            "Main Dish"
+            "Main Dish",
+            "Lunch"
         ],
         "recipe_specialdiets": [
             "Non-Vegetarian"
@@ -694,7 +694,7 @@
     },
     {
         "title": "Nilgiri Turkey Korma Recipe",
-        "author": "",
+        "author": "Chengfeng",
         "description": "About Nilgiri Turkey Korma Recipe: A luscious, creamy turkey korma, made with a melange of spices along with coconut paste and curd.This is a perfect dish to prepare for your next dinner party!",
         "photo_url": "https://c.ndtvimg.com/2020-07/9ouoj49_chicken_625x300_03_July_20.jpg",
         "servings": 2,
@@ -813,7 +813,8 @@
         ],
         "recipe_cuisine": "Indian",
         "recipe_courses": [
-            "Main Dish"
+            "Main Dish",
+            "Lunch"
         ],
         "recipe_specialdiets": [
             "Non-Vegetarian"
@@ -915,18 +916,6 @@
                 "category": ""
             },
             {
-                "name": "for garnishing coriander sprig",
-                "unit_name": "",
-                "quantity": "",
-                "category": ""
-            },
-            {
-                "name": "for garnishing lemon wedges",
-                "unit_name": "",
-                "quantity": "",
-                "category": ""
-            },
-            {
                 "quantity": "1",
                 "unit_name": "inch",
                 "name": "stick  cinnamon",
@@ -941,7 +930,8 @@
         ],
         "recipe_cuisine": "Indian",
         "recipe_courses": [
-            "Main Dish"
+            "Main Dish",
+            "Lunch"
         ],
         "recipe_specialdiets": [
             "Non-Vegetarian"
@@ -1049,17 +1039,12 @@
                 "unit_name": "tbsp",
                 "name": "Oil",
                 "category": ""
-            },
-            {
-                "name": "For frying  OIl",
-                "unit_name": "",
-                "quantity": "",
-                "category": ""
             }
         ],
         "recipe_cuisine": "Indian",
         "recipe_courses": [
-            "Main Dish"
+            "Main Dish",
+            "Lunch"
         ],
         "recipe_specialdiets": [
             "Non-Vegetarian"
@@ -1138,10 +1123,4638 @@
         ],
         "recipe_cuisine": "Indian",
         "recipe_courses": [
+            "Main Dish",
+            "Lunch"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Mango Phalsa Chaat Recipe",
+        "author": "Rakesh Sethi",
+        "description": "Mango Phalsa Chaat is ideal for the hot summers when all you need is a quick meal to nourish you from within. This simple chaat recipe is probably just the chaat recipe you need today!",
+        "photo_url": "https://c.ndtvimg.com/2022-06/0asiipp8_mango-chaat_625x300_13_June_22.jpg",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "recipe_directions": {
+            "1": "In a bowl combine diced mangoes with honey, salt, mint, chaat masala, lemon juice and chilli flakes",
+            "2": "Toss gently to mix all ingredients well",
+            "3": "Transfer to a serving glass and put phalsa berries all over the chaat. Garnish with mint sprig",
+            "4": "Serve and enjoy!"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Nos Safeda Mangoes, diced",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "cup",
+                "name": "Phalsa berries",
+                "category": ""
+            },
+            {
+                "quantity": "10",
+                "unit_name": "",
+                "name": "nos Mint leaves, shredded",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Honey",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "Black Salt",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "Chaat Masala",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "",
+                "name": "nos Lemon Juice",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "Chilli flakes",
+                "category": ""
+            },
+            {
+                "name": "Mint Sprig To Garnish",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Mediterranean",
+        "recipe_courses": [
+            "Appetizer & Snacks"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian",
+            "Gluten-free"
+        ]
+    },
+    {
+        "title": "No Oven Garlic Bread Recipe",
+        "author": "NDTV Food",
+        "description": "If you love garlic bread as much as we do, here we have something special for you. We have found one recipe for making restaurant-style garlic bread at home and that too without an oven.",
+        "photo_url": "https://c.ndtvimg.com/2022-05/ch8kttqg_garlic-bread_625x300_24_May_22.png",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "recipe_directions": {
+            "1": "First of all, dissolve sugar in a quarter cup of lukewarm water, add yeast to it and mix it and keep it aside for some time",
+            "2": "Now take all purpose flour in a big bowl, add salt, garlic powder and oregano and mix it",
+            "3": "In this time the yeast will become fluffy, add it to the maida and mix it and knead a soft dough. Pour some oil on the dough and once again knead it and keep it aside",
+            "4": "The flour will get ready in 15 minutes. Grease your hands with oil and knead it again",
+            "5": "Now take out a portion from the dough, sprinkle some all purpose flour and roll it into a circular shape.  Add cheese and boiled corn to one side",
+            "6": "Apply oil on the edge and fold its other side. Apply a lot of butter on it with the help of a brush",
+            "7": "Sprinkle oregano, chili flakes and garlic powder on it and make light cuts",
+            "8": "Turn on the gas and place a pan on it. Put salt in the pan and heat it, keep a bowl or stand in the middle of it",
+            "9": "Place the prepared garlic bread on a baking tray and place it in a pan to be baked",
+            "10": "After placing the baking tray in the pan, put a lid on it and let it bake for 15 minutes. After this take out the baking tray and serve sliced"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "All Purpose Flour",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Sugar",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Yeast",
+                "category": ""
+            },
+            {
+                "name": "to taste Salt",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Oregano",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Garlic Powder",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Chilli Flakes",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Butter",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "cup",
+                "name": "Grated Cheese",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "cup",
+                "name": "Corn (Boiled)",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Oil",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Mediterranean",
+        "recipe_courses": [
+            "Appetizer & Snacks"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian",
+            "Gluten-free"
+        ]
+    },
+    {
+        "title": "Chicken Doughnuts Recipe",
+        "author": "NDTV Food",
+        "description": "The sweet classic doughnut gets a savoury twist with this recipe. These chicken doughnuts are made from a mixture of minced chicken, boiled potatoes, onions and carrots.",
+        "photo_url": "https://c.ndtvimg.com/2022-03/3meal5b8_chicken-doughnuts_625x300_29_March_22.jpg",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "recipe_directions": {
+            "1": "Take chicken, garlic, bread crumbs, boiled potato, finely chopped onion, coriander leaves, grated carrot, chilli flakes, chilli powder, salt, cumin seed powder, black pepper powder into a blender jar. Blend these ingredients into a fine paste",
+            "2": "Grease oil on a plate and shape the chicken donuts paste into regular-sized flat balls",
+            "3": "Keep them in the freezer for 2-3 hrs. Later, cut a hole into the centre of those balls",
+            "4": "Now dip these doughnuts in all-purpose flour, egg and bread crumbs. And keep them in the freezer again for 1-2 hours",
+            "5": "Afterwards, heat oil in a pan and deep fry the chicken donuts. Once they are crispy and golden in colour, remove them and serve",
+            "6": "Your crispy chicken donuts/chicken rings are ready to serve"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "250",
+                "unit_name": "gms",
+                "name": "Minced Chicken",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "and a half tsp Garlic (Minced)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Potato (Boiled)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Onion (Chopped)",
+                "category": ""
+            },
+            {
+                "name": "Coriander Leaves (Chopped)",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Carrot (Grated)",
+                "category": ""
+            },
+            {
+                "quantity": "1/8",
+                "unit_name": "tsp",
+                "name": "Chilli Flakes",
+                "category": ""
+            },
+            {
+                "quantity": "1/8",
+                "unit_name": "tsp",
+                "name": "Chilli Powder",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "tsp",
+                "name": "Salt",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "tsp",
+                "name": "Cumin Seeds Powder",
+                "category": ""
+            },
+            {
+                "name": "Black Pepper Powder",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "All-Purpose Flour",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Egg (Whisked)",
+                "category": ""
+            },
+            {
+                "name": "Bread Crumbs",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Mediterranean",
+        "recipe_courses": [
+            "Appetizer & Snacks"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian",
+            "Gluten-free"
+        ]
+    },
+    {
+        "title": "Protein Balls Recipe",
+        "author": "Chengfeng",
+        "description": "Spring is here, and it brings with it sweet tidings and hopes of a weekend resplendent with colors and delicious food and drinks to savour. On this occasion, here we bring you an exclusive recipe for a healthy snack \u2018Protein Balls\u2019.",
+        "photo_url": "https://c.ndtvimg.com/2022-03/6ie7dg9g_laddoo_625x300_17_March_22.jpg",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "recipe_directions": {
+            "1": "Place the almonds in a food processor and pulse until they are finely chopped",
+            "2": "Add the apricot, dates, honey and orange zest and pulse until a dough consistency is achieved. Roll one heaping teaspoon of dough into little ball then roll the ball through desiccated coconut. Set aside. Repeat until all the dough is used up",
+            "3": "The energy balls can be stored in an airtight container in the fridge for up to 1 week"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "290",
+                "unit_name": "gms",
+                "name": "Almonds",
+                "category": ""
+            },
+            {
+                "quantity": "290",
+                "unit_name": "gram",
+                "name": "Dried apricots",
+                "category": ""
+            },
+            {
+                "quantity": "290",
+                "unit_name": "gram",
+                "name": "Cashewnut",
+                "category": ""
+            },
+            {
+                "quantity": "50",
+                "unit_name": "gram",
+                "name": "Coconut oil",
+                "category": ""
+            },
+            {
+                "quantity": "200",
+                "unit_name": "gram",
+                "name": "Seed less dates chopped",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "gram",
+                "name": "Organic honey",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "",
+                "name": "nos Orange zest",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "nos Vanilla Beans",
+                "category": ""
+            },
+            {
+                "quantity": "200",
+                "unit_name": "gram",
+                "name": "Unsweetened desiccated coconut",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Mediterranean",
+        "recipe_courses": [
+            "Appetizer & Snacks"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian",
+            "Gluten-free"
+        ]
+    },
+    {
+        "title": "Chicken And Baby Spinach Kebab Recipe",
+        "author": "Dayashankar Sharma",
+        "description": "We all love kebabs. They are super delicious and indulging to the core. To give kebab a nutritious twist, we have added baby spinach in this recipe. Try it out!",
+        "photo_url": "https://c.ndtvimg.com/2022-03/si2vsgoo_kebab_625x300_16_March_22.jpg",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "recipe_directions": {
+            "1": "Mix all above ingredients well and leave it in a bowl for 5 minute to integrate",
+            "2": "Heat vegetable oil in a deep pan and add chopped ginger, green chilli and brown for 2 minutes till finish crackling",
+            "3": "Add boneless chicken thigh and cook over high heat for 5 minutes and stir constantly, do not allow to stick at the bottom",
+            "4": "Add all crushed spices and powder spices and cook till the chicken is soft (cooked)",
+            "5": "Add chopped coriander, mint, coriander, spinach and mix well and remove the pan from fire and cool it",
+            "6": "When cold, Grind cooked mixture in Robot coup. Add bread crumb and taste the seasoning. (adjust according to taste). Make Patties according to the size as in the picture and leave in the fridge to firm up",
+            "7": "Heat very little oil in a none stick pan and grill the Patties (tikki) cook to golden brown",
+            "8": "Serve on appropriate plat with garnish of seasoned dollop of piped cream cheese on top and Mint chutney at the bottom",
+            "9": "Garnish with red cress"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "750",
+                "unit_name": "gms",
+                "name": "Chicken thigh boneless",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "Crushed red chilli",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Crushed Coriander",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Crushed Cumin",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tbsp",
+                "name": "Turmeric",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tbsp",
+                "name": "Red Chilli powder",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tbsp",
+                "name": "Coriander powder",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tbsp",
+                "name": "Cumin Powder",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Chopped Green Chilli",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Chopped Ginger",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "",
+                "name": "Bunch  Chopped Fresh Mint",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "",
+                "name": "Bunch  Fresh Spinach",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "tbsp",
+                "name": "Bread Crumbs",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Mediterranean",
+        "recipe_courses": [
+            "Appetizer & Snacks"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian",
+            "Gluten-free"
+        ]
+    },
+    {
+        "title": "Golden Coin Eggs Recipe",
+        "author": "NDTV Food",
+        "description": "Sliced boiled eggs in roundels, coated in corn starch and pan-fried in butter and ginger-garlic paste until golden brown. Top it with some chilli flakes and any sauce of your choice and make this quick recipe to impress your guests.",
+        "photo_url": "https://c.ndtvimg.com/2022-07/bbvi226g_golden-egg-coin_625x300_04_July_22.jpeg",
+        "servings": 2,
+        "prep_time": "05 mins",
+        "cook_time": "10 mins",
+        "recipe_directions": {
+            "1": "Slice boiled eggs in roundels, coat them in corn starch",
+            "2": "Pan fry the coated eggs in butter, till they are golden brown on both side. At this stage, the eggs shall start looking like golden coins",
+            "3": "Next, add ginger-garlic paste to the pan and stir fry till paste cooks",
+            "4": "Add chilli flakes, tomato sauce, chilli sauce and soya sauce. You can also add sesame seeds of you want",
+            "5": "Season with salt and toss the eggs well. The golden coin eggs are ready!"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Eggs (hard boiled & shelled, slice them up into 1\u201d roundels)",
+                "category": ""
+            },
+            {
+                "name": "Water (as required, to boil the eggs)",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "To taste or 1tsp  Salt (to be used in two batches)",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Ginger (finely chopped or minced)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Garlic (finely chopped or minced)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Red Chilli Flakes",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Dark Soya Sauce",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Tomato-Chilli Ketchup",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Corn Starch",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Scallions & Chives (finely chopped)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Sesame Seeds (optional, for garnishing)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Cooking Oil (sesame oil, preferably)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Butter (salted)",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "American",
+        "recipe_courses": [
+            "Breakfast & Brunch"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian",
+            "Gluten-free"
+        ]
+    },
+    {
+        "title": "Eggs Benedict With Sesame Bagels Recipe",
+        "author": "Aditi Handa",
+        "description": "Breakfast heaven on a plate. Ever tried Eggs Benedict with Sesame Bagels? if not, read below.",
+        "photo_url": "https://c.ndtvimg.com/2022-05/a4srtoto_egg_625x300_30_May_22.jpg",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "recipe_directions": {
+            "1": "Combine peppercorns and 2 cups vinegar in a small saucepan over medium-high heat. Cook until reduced by half, about 30 minutes",
+            "2": "Remove from heat; discard peppercorns. Set aside 2 teaspoons vinegar reduction in a small bowl. Save the remainder in an airtight container for another use",
+            "3": "Bring 950 ml water to a simmer in a large saucepan over medium-low heat. Place a heatproof bowl on the pan. Add egg yolks and vinegar reduction; whisk constantly until it forms ribbons when the whisk is lifted",
+            "4": "Remove bowl from heat, and slowly whisk in \u00bd cup melted butter. Return bowl to saucepan and cook for 2 minutes, whisking constantly",
+            "5": "Repeat process with remaining butter until hollandaise mixture reaches a consistency slightly looser than mayonnaise. Whisk in lemon juice, salt, pepper. Set\r\naside",
+            "6": "Boil 3 inches of water in a large saucepan over high heat; reduce heat to medium and maintain at a light simmer. Add remaining vinegar, and stir briskly to form a vortex",
+            "7": "Break 1 egg, and slip into the vortex. Simmer for 2 to 3 minutes, and remove with a slotted spoon. Repeat with the remaining eggs",
+            "8": "Spread a small amount of hollandaise on each bagel half; top each with 1 ham slice and 1 poached egg. Top with more sauce and chopped chives"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Black peppercorns-",
+                "category": ""
+            },
+            {
+                "name": "White Wine Vinegar divided- 2 cups + 3 tbsp",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "",
+                "name": "large Eggs yolks",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "Unsalted butter, melted and skimmed-",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Fresh lemon juice",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tbsp",
+                "name": "Kosher salt",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tbsp",
+                "name": "Black Pepper",
+                "category": ""
+            },
+            {
+                "quantity": "4",
+                "unit_name": "",
+                "name": "Large Eggs",
+                "category": ""
+            },
+            {
+                "quantity": "4",
+                "unit_name": "",
+                "name": "Slices  Cured Ham",
+                "category": ""
+            },
+            {
+                "name": "Chives",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Sesame Bagels, Spilt and toasted",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "American",
+        "recipe_courses": [
+            "Breakfast & Brunch"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian",
+            "Gluten-free"
+        ]
+    },
+    {
+        "title": "Chilli Garlic Omelette Recipe",
+        "author": "NDTV Food",
+        "description": "As the name suggests, this omelette is made with fiery chilli and piquant garlic flavours. If you are someone with spicy taste palettes, this recipe is a worthwhile attempt.",
+        "photo_url": "https://c.ndtvimg.com/2022-03/qotme5q_omelette_625x300_25_March_22.jpg",
+        "servings": 2,
+        "prep_time": "05 mins",
+        "cook_time": "10 mins",
+        "recipe_directions": {
+            "1": "Break two eggs in a glass, whisk it properly",
+            "2": "Once done add chopped garlic, salt, chilli flakes and red chilli powder",
+            "3": "Mix everything again",
+            "4": "Heat a dollop of butter in a pan, pour the whisked egg batter, flip and cook the omelette from both sides",
+            "5": "You can also add a slice of cheese to give it a balanced taste",
+            "6": "Serve and enjoy!"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Eggs",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "Chilli Flakes",
+                "category": ""
+            },
+            {
+                "name": "To taste  Red Chilli Powder",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Salt To Taste",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "",
+                "name": "Cloves  Garlic (Chopped)",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "American",
+        "recipe_courses": [
+            "Breakfast & Brunch"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian",
+            "Gluten-free"
+        ]
+    },
+    {
+        "title": "Homemade Veg Grilled Sandwich Recipe",
+        "author": "NDTV Food",
+        "description": "Homemade Veg Grilled Sandwich Recipe : This is an quick & easy sandwich recipe. To make this you need capsicum, onion, cucumber, carrot & paneer.Total Cook Time 15 mins Prep Time 05 mins Cook Time 10 mins Recipe Servings4EasyIngredients of Homemade Veg Grilled Sandwich1  onion1  boiled potato1/2  capsicum 1 small cucumber 1  carrot, grated100 gram paneer, grated4  cheese slices4 tbsp mayonnaise  to taste Salt  to taste Black pepper powderas required   Tomato sauceHow to Make Homemade Veg Grilled SandwichHideShow \n                                            Media\n                                        1.Cut cucumber, onion and capsicum into this slices.2.Mix grated carrot and paneer. Add in mayonnaise.3.Smear 4 bread slices with some tomato sauce. Sprinkle salt and pepper.4.Place the veggies on all of them.5.Top it with grated veggie mix.6.Place cheese slice. Cover with another slice and grill with butter.Key Ingredients: onion, boiled potato, capsicum , cucumber , carrot, paneer, cheese slices, mayonnaise , Salt , Black pepper powder, Tomato sauce\n                                        Tags:\n                                    SandwichVeg Sandwich5 Share Recipe Share Recipe Facebook\n                 Twitter\n                 Reddit\n                 \n                    Snapchat",
+        "photo_url": "https://i.ndtvimg.com/i/2017-07/grilled-sandwich_620x330_51501068389.jpg",
+        "servings": 4,
+        "prep_time": "05 mins",
+        "cook_time": "10 mins",
+        "recipe_directions": {
+            "1": "Cut cucumber, onion and capsicum into this slices",
+            "2": "Mix grated carrot and paneer. Add in mayonnaise",
+            "3": "Smear 4 bread slices with some tomato sauce. Sprinkle salt and pepper",
+            "4": "Place the veggies on all of them",
+            "5": "Top it with grated veggie mix",
+            "6": "Place cheese slice. Cover with another slice and grill with butter"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "onion",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "boiled potato",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "",
+                "name": "capsicum",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "small cucumber",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "carrot, grated",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "gram",
+                "name": "paneer, grated",
+                "category": ""
+            },
+            {
+                "quantity": "4",
+                "unit_name": "",
+                "name": "cheese slices",
+                "category": ""
+            },
+            {
+                "quantity": "4",
+                "unit_name": "tbsp",
+                "name": "mayonnaise",
+                "category": ""
+            },
+            {
+                "name": "to taste Salt",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "to taste Black pepper powder",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "as required   Tomato sauce",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "American",
+        "recipe_courses": [
+            "Breakfast & Brunch"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian",
+            "Gluten-free"
+        ]
+    },
+    {
+        "title": "Green Onion and Mushroom Omelette Recipe",
+        "author": "NDTV Food",
+        "description": "This recipe will let you make restaurant-style fluffy omelette at home! All you need to do is to prepare the stuffing of green onions and mushrooms and prepare the omelette base.",
+        "photo_url": "https://c.ndtvimg.com/2021-12/p4eet8n_green-onion-and-mushroom-omelette_625x300_21_December_21.jpg",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "recipe_directions": {
+            "1": "Finely chop mushrooms in processor. Melt butter in medium skillet over medium-high heat",
+            "2": "Add mushrooms and onions; saut\u00e9 for 3 minutes. Add vermouth and boil until evaporated, about 1 and a 1/2 minutes. Season with salt and pepper",
+            "3": "Whisk eggs, 1 tablespoon water, salt, and pepper in medium bowl to blend. Melt 1 teaspoon butter in small nonstick skillet over medium heat",
+            "4": "Add half of egg mixture. Stir with back of the fork until edges begin to set",
+            "5": "Cook until omelet is set, lifting edges with spatula to let uncooked egg flow underneath, about 2 minutes",
+            "6": "Spoon half of mushroom mixture down center of omelet. Fold both sides of omelet over filling and transfer to plate",
+            "7": "Repeat with remaining butter, egg mixture, and mushroom mixture. Sprinkle omelets with remaining onions"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "175",
+                "unit_name": "gms",
+                "name": "Mushrooms",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tsp",
+                "name": "Butter",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "tbsp",
+                "name": "Chopped green onions",
+                "category": ""
+            },
+            {
+                "quantity": "6",
+                "unit_name": "",
+                "name": "Eggs",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Water",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "tsp",
+                "name": "Salt",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "tsp",
+                "name": "Ground black pepper",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "American",
+        "recipe_courses": [
+            "Breakfast & Brunch"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian",
+            "Gluten-free"
+        ]
+    },
+    {
+        "title": "Scotch Egg And Broth Recipe",
+        "author": "Chengfeng",
+        "description": "Scotch Egg And Broth is a diffrent breakfast recipe which which made by boiled egg,lamb meat and  bread crumbs.",
+        "photo_url": "https://i.ndtvimg.com/i/2018-01/scotch-egg_620x330_41515484613.jpg",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "1 hr",
+        "recipe_directions": {
+            "1": "Preparation methodPlace the eggs, still in their shells, in a pan of cold salted water.Place over a high heat and bring to the boil, then reduce the heat to simmer for exactly nine minutes",
+            "2": "Drain and cool the eggs under cold running water, then peel.Mix the lamb meat with the thyme, parsley and spring onion in a bowl and season well with salt and freshly ground black pepperDivide the lamb meat mixture into four and flatten each out on a clean surface into ovals about 12.5cm/long and 7.5cmPlace the seasoned flour onto a plate, and then dredge each boiled egg in the flour",
+            "3": "Place each onto a lamb meat, and then wrap the sausage meat around each egg. Make sure the coating is smooth and completely covers each egg.Dip each lamb meat-coated egg in the beaten egg, rolling to coat completely, then dip and roll into the breadcrumbs to completely cover",
+            "4": "Heat the oil in a deep heavy-bottomed pan, until a breadcrumb sizzles and turns brown when dropped into it.(CAUTION: hot oil can be dangerous",
+            "5": "Do not leave unattended.)Carefully place each scotches egg into the hot oil and deep-fries for 8-10 minutes, until golden and crisp and the lamb meat is completely cooked",
+            "6": "Carefully remove from the oil with a slotted spoon and drain on kitchen paper.And keep a sidePreparation methodIn heavy bottom pan, heat oil over medium-high heat; saut\u00e9 onion, celery, carrot, turnip, garlic, bay leaf, salt and pepper for about 5 minutes or until softened",
+            "7": "Add barley; cook, stirring, for 1 minute.Add stock water; bring to boil. Add potato and thyme; cover and simmer for about 25 minutes or until vegetables and barley are tender",
+            "8": "Add lamb and parsley; simmer for 5 minutes. Discard bay leaf and thyme sprigs.Now scotch broth ready.Cut Scotch egg in to half and pour Scotch broth on top and serve hot"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "4",
+                "unit_name": "",
+                "name": "eggs",
+                "category": ""
+            },
+            {
+                "quantity": "275",
+                "unit_name": "gram",
+                "name": "meat",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "fresh thyme leaves",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "fresh parsley, chopped",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "spring onion, chopped",
+                "category": ""
+            },
+            {
+                "name": "To taste salt and freshly ground black pepper",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "125",
+                "unit_name": "gram",
+                "name": "plain flour, seasoned with salt and freshly ground black pepper",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "egg",
+                "category": ""
+            },
+            {
+                "quantity": "125",
+                "unit_name": "gram",
+                "name": " breadcrumbs",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": " vegetable oil",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "diced  onion",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": " diced celery",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "diced & peeled  carrots",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "diced & peeled   white turnips",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "clove  garlic",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "bay leaf",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "salt",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "pepper",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "cup",
+                "name": "barley",
+                "category": ""
+            },
+            {
+                "quantity": "1500",
+                "unit_name": "ml",
+                "name": "lamb stock",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": " diced & peeled  potatoes",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "sprigs   fresh thyme",
+                "category": ""
+            },
+            {
+                "quantity": "375",
+                "unit_name": "ml",
+                "name": "cooked mutton or lamb neck or stew meats",
+                "category": ""
+            },
+            {
+                "name": "fresh parsley, chopped",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "British",
+        "recipe_courses": [
+            "Appetizer & Snacks",
+            "Side Dishes",
+            "Breakfast & Brunch"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "title": "Buttermilk Scones Recipe",
+        "author": "NDTV Food",
+        "description": "About Buttermilk Scones Recipe: Crisp outside, buttery and fluffy on the inside. These buttermilk scones are the perfect tea time option. Served with a delectable strawberry jam and whipped cream.",
+        "photo_url": "https://i.ndtvimg.com/i/2016-01/scones_500x300_61454065777.jpg",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "recipe_directions": {
+            "1": "In a big bowl add flour, bicarbonate soda, cream of tartar, butter along with caster sugar and mix",
+            "2": "While mixing keep adding some buttermilk, bring it all together, forming dough and take it out on a board",
+            "3": "Sprinkle some flour on the board and pat the dough to the thickness of your choice",
+            "4": "Cut small pieces of the dough with the cookie cutter and place them on a baking tray",
+            "5": "With the help of a brush touch up the pieces with the beaten egg",
+            "6": "Bake in an oven set at 220degree for about 10-12 minutes",
+            "7": "To Serve: Server the scones with some whipped cream and strawberry jam on the side"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "500",
+                "unit_name": "gms",
+                "name": "flour",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tsp",
+                "name": "bicarbonate soda",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tsp",
+                "name": "cream of tartar",
+                "category": ""
+            },
+            {
+                "quantity": "75",
+                "unit_name": "gms",
+                "name": "butter",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tsp",
+                "name": "caster sugar",
+                "category": ""
+            },
+            {
+                "quantity": "300",
+                "unit_name": "ml",
+                "name": "buttermilk",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "cookie cutter",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Egg (beaten)",
+                "category": ""
+            },
+            {
+                "name": "Cream",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "British",
+        "recipe_courses": [
+            "Appetizer & Snacks",
+            "Side Dishes",
+            "Breakfast & Brunch"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "title": "Pears in Saffron and Rose Syrup Recipe",
+        "author": "Chengfeng",
+        "description": "A delightful dessert, pears poached in a saffron and spice syrup, flavored with rose water.",
+        "photo_url": "https://i.ndtvimg.com/i/2018-02/pears_620x330_41517911539.jpg",
+        "servings": 2,
+        "prep_time": "05 mins",
+        "cook_time": "30 mins",
+        "recipe_directions": {
+            "1": "Mix water, sugar, rind and spice into a pan and cook over gentle flame",
+            "2": "Boil for five minutes",
+            "3": "Place prepared pears into hot syrup and poach until tender",
+            "4": "Remove fruit from syrup and arrange upright in a bowl",
+            "5": "If the spice syrup is thin, reduce it until it thickens",
+            "6": "Strain the hot syrup",
+            "7": "Sprinkle in the saffron strand and flavor with rose water",
+            "8": "Pour the syrup over the pears",
+            "9": "Chill well before serving",
+            "10": "Decorate with almonds, mint leaves and silver leaf"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "6",
+                "unit_name": "",
+                "name": "pears-peeled and left whole",
+                "category": ""
+            },
+            {
+                "quantity": "400",
+                "unit_name": "ml",
+                "name": "water",
+                "category": ""
+            },
+            {
+                "quantity": "200",
+                "unit_name": "gm",
+                "name": "sugar",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "lemon rinds",
+                "category": ""
+            },
+            {
+                "quantity": "4",
+                "unit_name": "",
+                "name": "cloves",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "blade mace",
+                "category": ""
+            },
+            {
+                "quantity": "6",
+                "unit_name": "",
+                "name": "small split cardamoms",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Rose water",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "roasted saffron strands",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "blanched split roasted almonds",
+                "category": ""
+            },
+            {
+                "quantity": "6",
+                "unit_name": "",
+                "name": "small mint leaves    silver leaf (optional)",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "British",
+        "recipe_courses": [
+            "Appetizer & Snacks",
+            "Side Dishes",
+            "Breakfast & Brunch"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "title": "Pound Cake Recipe",
+        "author": "Chengfeng",
+        "description": "About Pound Cake Recipe: Pound cake of British origin is traditionally made with a pound of each of it's main ingredients: flour, eggs, sugar, vanilla essense and butter.",
+        "photo_url": "https://c.ndtvimg.com/2020-01/c2tc068o_pound-cake_625x300_23_January_20.jpg",
+        "servings": 4,
+        "prep_time": "05 mins",
+        "cook_time": "45 mins",
+        "recipe_directions": {
+            "1": "Mix butter, sugar, vanilla and eggs. Beat well together",
+            "2": "Mix salt and baking powder with the maida (flour) and add to the butter mixture",
+            "3": "Beat well together and transfer to prepared tin",
+            "4": "Bake in a pre-heated oven for 30-35 minutes"
+        },
+        "recipe_ingredients": [
+            {
+                "name": "Oven Temp: 160C-300F",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "cups",
+                "name": "maida",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "butter (240 gm)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "sugar (240 gm)",
+                "category": ""
+            },
+            {
+                "quantity": "4",
+                "unit_name": "",
+                "name": "eggs",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tsp",
+                "name": "baking powder",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tsp",
+                "name": "vanilla essence",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "tsp",
+                "name": "salt",
+                "category": ""
+            },
+            {
+                "name": "A baking tin 8",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "British",
+        "recipe_courses": [
+            "Appetizer & Snacks",
+            "Side Dishes",
+            "Breakfast & Brunch"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "title": "Tartare Sauce Recipe",
+        "author": "Chengfeng",
+        "description": "Tartare Sauce: A creamy dipping sauce made with mayonnaise. Usually used with sea food, this dip is  loaded with flavor.Total Cook Time 15 mins Prep Time 05 mins Cook Time 10 mins Recipe Servings4EasyIngredients of Tartare Sauce  1 cup mayonnaise  1 onion-chopped fine  1 tomato-de-seeded and chopped fine  2 Tbsp chopped celeryHow to Make Tartare SauceHideShow \n                                            Media\n                                        1.Mix all the ingredients together and serve.\n                                        Tags:\n                                    BritishDipNiru GuptaSauceTartar Sauce5 Share Recipe Share Recipe Facebook\n                 Twitter\n                 Reddit\n                 \n                    Snapchat",
+        "photo_url": "https://c.ndtvimg.com/2019-04/m18ct038_mayonnaise_625x300_22_April_19.jpg",
+        "servings": 4,
+        "prep_time": "05 mins",
+        "cook_time": "10 mins",
+        "recipe_directions": {
+            "1": "Mix all the ingredients together and serve"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "mayonnaise",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "onion-chopped fine",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "tomato-de-seeded and chopped fine",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "chopped celery",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "British",
+        "recipe_courses": [
+            "Appetizer & Snacks",
+            "Side Dishes",
+            "Breakfast & Brunch"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "title": "Caribbean Rice Salad Recipe",
+        "author": "California Prune Board",
+        "description": "A fantastic salad to serve at a lunch buffet and with Indian food.",
+        "photo_url": "https://www.ndtv.com/cooks/images/Caribbean-Rice-Salad_med.jpg",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "recipe_directions": {
+            "1": "Place all ingredients for salad in a bowl and toss gently",
+            "2": "Whisk French dressing with curry powder and salt, and pour over salad. Toss until well blended",
+            "3": "Taste and add more salt if required",
+            "4": "Serve in a pineapple shell or on a bed of lettuce",
+            "5": "Tip: You can use a mix of different rice as long as each one is cooked separately"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "California pitted prunes, roughly chopped",
+                "category": ""
+            },
+            {
+                "quantity": "4",
+                "unit_name": "cups",
+                "name": "boiled rice (wild, brown or basmati or a mix)",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "cup",
+                "name": "diced fresh pineapple (1",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "cup",
+                "name": "cashew nuts",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "cup",
+                "name": "finely chopped spring onions with some of the tender green",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "diced red bell peppers",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "cup",
+                "name": "sliced green olives",
+                "category": ""
+            },
+            {
+                "quantity": "200",
+                "unit_name": "ml",
+                "name": "French dressing",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "curry powder",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "salt",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Caribbean",
+        "recipe_courses": [
+            "Side Dishes",
+            "Salad"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "title": "Chicken Chilli Gravy Recipe",
+        "author": "NDTV Food",
+        "description": "Boneless chicken chunks marinated in soya sauce and ginger garlic paste, deep fried until crisp and seasoned in flavourful sauces. This chicken chilly gravy has a burst of flavours and tastes delicious. It is best served hot as an appetizer or with fried rice or noodles.",
+        "photo_url": "https://c.ndtvimg.com/2022-06/78aqdsl_chicken_625x300_21_June_22.jpg",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "recipe_directions": {
+            "1": "For Marination:\r\n\r\nTake a large mixing bowl, add chicken chunks along with all the dry ingredients and soya sauce, ginger garlic paste, egg, corn flour, all-purpose flour. Mix well by using hands",
+            "2": "Set aside for 15-20 minutes",
+            "3": "For Gravy:\r\n\r\nHeat oil in a pan and deep fry all the chicken chunks. Keep aside. Now in the same pan, reduce the oil and Sautee ginger garlic paste",
+            "4": "Then add veggies like capsicum, onion and green chillies. Sautee again for about 2-3 minutes on medium flame",
+            "5": "Now lower the flame and corn flour slurry to make the gravy thick and consistent. Now, add all the sauces",
+            "6": "Stir it and give it a boil. Ps: You can add more water if you need extra gravy. Now, add fried chicken and mix everything well. Sprinkle spring onions and coriander leaves",
+            "7": "Serve and enjoy!"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "2",
+                "unit_name": "gram",
+                "name": "Boneless chicken",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Soya sauce",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Vinegar",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Ginger-garlic paste",
+                "category": ""
+            },
+            {
+                "name": "to taste Salt",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Egg",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Cornflour",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "All purpose flour",
+                "category": ""
+            },
+            {
+                "name": "to taste Black pepper powder",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Red chilli powder (optional)",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "cup",
+                "name": "Spring onions (chopped)",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "cup",
+                "name": "Capsicum (cubed)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Large onion (cubed)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Black pepper powder",
+                "category": ""
+            },
+            {
+                "quantity": "4",
+                "unit_name": "",
+                "name": "Garlic cloves (finely chopped)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "inch",
+                "name": " Ginger (finely chopped)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Green chilli sauce",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Tomato sauce",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Red chilli sauce",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Cornflour (with water)",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Chinese",
+        "recipe_courses": [
+            "Lunch",
             "Main Dish"
         ],
         "recipe_specialdiets": [
             "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Mushroom Noodles Recipe",
+        "author": "NDTV Food",
+        "description": "These mushroom noodles are super easy to make! It requires minimal chopping and is ready in minutes. With button mushrooms, spring onions, soy sauce, spice and noodles, you\u2019ll get a delicious, Indo-Chinese noodles recipe that will not only impress your family but make them fight for a third serving!",
+        "photo_url": "https://c.ndtvimg.com/2022-04/sigvgq2g_noodles_625x300_27_April_22.jpg",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "recipe_directions": {
+            "1": "Start by boiling noodles al dante, and keep them aside",
+            "2": "Heat oil in a wok or kadai or a pan. On a low to medium heat, first add chopped garlic, chopped ginger and chopped green chilies. For a spicy hot tasting noodles, you can increase the quantity of green chilies",
+            "3": "Saute for a few seconds, then add chopped spring onions. Add both the white and green part. Reserve 2 tablespoon of the greens for garnish",
+            "4": "Stir and saute the spring onions till they turn translucent. Then add the sliced mushrooms",
+            "5": "Stir the mushrooms very well and saute them on a medium to high heat stirring occasionally. The mushrooms will leave water while cooking",
+            "6": "Continue to saute till all the water dries up and the mushrooms become light golden from the edges.Then add ground black pepper",
+            "7": "Add soy sauce and stir very well. Add the noodles. Add salt as required",
+            "8": "Stir and toss the noodles very well. Add rice vinegar or regular white vinegar. Stir and mix. Switch off the heat and lastly add the chopped spring onions greens",
+            "9": "Give a final stir and serve mushroom noodles plain or with dry veg manchurian or veg manchurian gravy or veg balls in hot garlic sauce"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "200",
+                "unit_name": "gms",
+                "name": "Noodles",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "gram",
+                "name": "Mushrooms",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tbsp",
+                "name": "Chopped Garlic",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "Chopped ginger",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Chopped green chilies",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "Black pepper or white pepper",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "cup",
+                "name": "Chopped spring onions",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "to 2 tsp Finely chopped celery (optional)",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "to 2.5 tbsp Oil",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Soya Sauce",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Rice vinegar or regular vinegar",
+                "category": ""
+            },
+            {
+                "name": "Spring onion greens for garnish",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "salt as required",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Chinese",
+        "recipe_courses": [
+            "Lunch",
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Sheng Jian Bao Recipe",
+        "author": "Chengfeng",
+        "description": "About Sheng Jian Bao : Sheng Jian Bao or raw fried buns is one of the signature dishes from Shanghai. It is filled with super juicy and incredibly flavorful pork wrapped in crispy pan fried layers. One bite of it awakens your taste with all the different flavours.",
+        "photo_url": "https://c.ndtvimg.com/2021-05/r7rsa0jo_bao_625x300_03_May_21.jpg",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "recipe_directions": {
+            "1": "Combine All purpose flour, cornstarch, instant yeast and sugar together. Stir to mix well",
+            "2": "Slowly pour into warm water and keep mixing the dough until tight. Form small dough flakes",
+            "3": "Pour in vegetable oil and keep mixing until the oil is absorbed",
+            "4": "Transfer the dough into a separate bowl and cover it with a plastic wrap. Let it rest",
+            "5": "Add soya sauce, salt, sugar and white pepper to the pork in a bowl. Mix it well until all the liquid is absorbed. Now, add green onions and sesame oil. Mix well",
+            "6": "Cut the dough strip into 12 pieces and gently use a circular motion to round up each strip then flatten it with your palm and roll it with a roller",
+            "7": "Add 1 tablespoon of the filling in the dough wrapper and start wrapping the bun in a shape of a momo. Repeat this step with other pieces of the dough",
+            "8": "Cook for 2-3 minutes over medium low heat and serve it hot with your favourite dip"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "2",
+                "unit_name": "cups",
+                "name": "All Purpose Flour",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Cornstarch",
+                "category": ""
+            },
+            {
+                "quantity": "3/4",
+                "unit_name": "",
+                "name": "tsp Instant Yeast",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Sugar",
+                "category": ""
+            },
+            {
+                "quantity": "2/3",
+                "unit_name": "cup",
+                "name": "Warm water",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Vegetable Oil",
+                "category": ""
+            },
+            {
+                "quantity": "250",
+                "unit_name": "gram",
+                "name": "Pork",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Soya Sauce",
+                "category": ""
+            },
+            {
+                "name": "to taste Salt",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "tsp",
+                "name": "White Pepper",
+                "category": ""
+            },
+            {
+                "quantity": "4",
+                "unit_name": "",
+                "name": "medium Green Onions (Sliced)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Sesame Oil",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Chinese",
+        "recipe_courses": [
+            "Lunch",
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Stuffed Eggplant with Schezwan Sauce Recipe",
+        "author": "Penpa Tsering",
+        "description": "About Stuffed Eggplant with Schezwan Sauce Recipe: A delicious Chinese dish with the goodness of mixed vegetables, eggplant, cottage cheese and a host of spices that would instantly spruce up the dish. Prepare this as a side dish at your next dinner party and keep your guests hooked!",
+        "photo_url": "https://c.ndtvimg.com/2019-02/rok9r2o_eggplant_625x300_21_February_19.jpg",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "recipe_directions": {
+            "1": "Stuff the eggplant with chopped vegetables and cottage cheese mixture",
+            "2": "Coat it with dry cornflour and deep fry",
+            "3": "Heat oil in wok. Add garlic, ginger, onion, oyster sauce, rice wine, chilli, vinegar, sichuan Pepper. Tomato ketchup and saut\u00e9 it well",
+            "4": "Now add stock and adjust the seasoning and give a touch with corn flour",
+            "5": "At last add the fried eggplant, toss it well in sauce, sprinkle with spring onion and serve hot"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "100",
+                "unit_name": "gms",
+                "name": "mixed vegetables, chopped",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "gms",
+                "name": "eggplant",
+                "category": ""
+            },
+            {
+                "quantity": "30",
+                "unit_name": "gms",
+                "name": "cottage cheese",
+                "category": ""
+            },
+            {
+                "quantity": "10",
+                "unit_name": "gms",
+                "name": "cornflour",
+                "category": ""
+            },
+            {
+                "quantity": "60",
+                "unit_name": "ml",
+                "name": "oil",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gms",
+                "name": "ginger, chopped",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gms",
+                "name": "celery, chopped",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gms",
+                "name": "onion",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gms",
+                "name": "garlic",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gms",
+                "name": "red chilli",
+                "category": ""
+            },
+            {
+                "quantity": "6",
+                "unit_name": "gms",
+                "name": "tomato",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gms",
+                "name": "oyster sauce",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "ml",
+                "name": "rice wine",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "ml",
+                "name": "vinegar",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gms",
+                "name": "salt",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gms",
+                "name": "castor sugar",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gms",
+                "name": "white pepper",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "ml",
+                "name": "sesame oil",
+                "category": ""
+            },
+            {
+                "quantity": "10",
+                "unit_name": "gms",
+                "name": "corn flour",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "gms",
+                "name": "sichuan pepper",
+                "category": ""
+            },
+            {
+                "quantity": "150",
+                "unit_name": "ml",
+                "name": "stock water",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Chinese",
+        "recipe_courses": [
+            "Lunch",
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Mapo Tofu with Spring Onion and Black Beans Recipe",
+        "author": "Chengfeng",
+        "description": "Traditionally made with beef or pork, this dish is thought to date back to the late nineteenth century. This vegetarian version made with tofu is equally sumptuous and has beautiful textures. You can adjust the spice to suit your own taste and serve it hot.",
+        "photo_url": "https://www.ndtv.com/cooks/images/620-8.jpg",
+        "servings": 2,
+        "prep_time": "30 mins",
+        "cook_time": "20 mins",
+        "recipe_directions": {
+            "1": "1. Heat cooking oil and Sichuan oil in wok or pan, put chili bean paste, spicy black bean, saut\u00e9 it",
+            "2": "2. Add ginger, garlic, chili powder and saut\u00e9 for a while",
+            "3": "3. Add dark soy and water",
+            "4": "4. Put silken tofu, leeks, spring onion, and add sugar, let it boil for 2 minutes",
+            "5": "5. Meanwhile take a stainless steel bowl put potato starch and water to prepare thickening starch ",
+            "6": "6. Adjust the thickening with potato starch and add it",
+            "7": "7. Serve hot"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "chilli bean paste",
+                "category": ""
+            },
+            {
+                "quantity": "300",
+                "unit_name": "gms",
+                "name": "diced silken tofu",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "sichuan oil",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "cooking oil",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "spicy black bean",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "ml",
+                "name": "water",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "dark soy",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "red chili powder",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "sugar",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "spring onions, chopped",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "leeks sliced",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "water",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "ginger, chopped",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "garlic, chopped",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Chinese",
+        "recipe_courses": [
+            "Lunch",
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Algerienne Fish Recipe",
+        "author": "Chengfeng",
+        "description": "Algerienne fish is a tangy French recipe. Fish fillets are marinated in lemon juice, baked and topped with a freshly made tomato sauce.",
+        "photo_url": "https://www.ndtv.com/cooks/images/Algerienne-Fish_med.jpg",
+        "servings": 2,
+        "prep_time": "10 min",
+        "cook_time": "25 mins",
+        "recipe_directions": {
+            "1": "Season the fish and squeeze lemon juice. Add parsley stalks",
+            "2": "Cover with foil and bake at 180 degrees for about 15 minutes",
+            "3": "While the fish bakes, fry onions in butter until soft. Add capsicums",
+            "4": "Season well and add garlic. Stir in tomatoes and paprika",
+            "5": "Cook well",
+            "6": "Spoon over this mix over the fish and garnish with parsley"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1/2",
+                "unit_name": "kg",
+                "name": "fish fillet",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "lemon, juice",
+                "category": ""
+            },
+            {
+                "quantity": "6",
+                "unit_name": "",
+                "name": "parsley stalks",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "green capsicum - sliced and blanched",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "red capsicum - sliced",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "butter",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "onion - chopped",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "garlic paste",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "kg",
+                "name": "peeled, seeded tomatoes",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "chopped parsley",
+                "category": ""
+            },
+            {
+                "name": "Salt and pepper",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "French",
+        "recipe_courses": [
+            "Soups & Stews"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "French Pea Soup Recipe",
+        "author": "Preah Narang",
+        "description": "Go green with this light and lovely serving of pea soup. Goes best with a dollop of fresh cream!",
+        "photo_url": "https://www.ndtv.com/cooks/images/French.Pea.Soup-620.jpg",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "recipe_directions": {
+            "1": "1. Heat oil in a pan. Add the onion and saute till white",
+            "2": "2. Now add the peas and saute for about 5 minutes",
+            "3": "3. Add seasoning and vegetable stock",
+            "4": "4. Give it a boil and simmer till the peas are cooked",
+            "5": "5. Puree in a grinder. Heat again and serve hot topped with fresh cream"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "500",
+                "unit_name": "gm",
+                "name": "shelled peas",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "onion, finely chopped",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "cup",
+                "name": "vegetable or chicken stock",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "olive oil",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tsp",
+                "name": "fresh cream",
+                "category": ""
+            },
+            {
+                "name": "Salt and pepper to taste",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "French",
+        "recipe_courses": [
+            "Soups & Stews"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Low Fat French Onion Soup Recipe",
+        "author": "Food Blogger Divya Burman",
+        "description": "About Low fat French Onion Soup Recipe: An old world classic that never goes out of style. Only this time, it's low fat.",
+        "photo_url": "https://c.ndtvimg.com/2018-10/9l8904uo_chicken_625x300_11_October_18.jpg",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "45 mins",
+        "recipe_directions": {
+            "1": "Take a heavy bottomed pan",
+            "2": "Add butter and olive oil or spray",
+            "3": "When warm, add onions and garlic",
+            "4": "Now the idea is to keep cooking these onions on a slow flame.they should caramelize in about 20 minutes",
+            "5": "After adding these onions,cook on low for 10 minutes. Now add wine",
+            "6": "Once the onions are nicely caramelized, add the stock add let it come to a boil",
+            "7": "Taste and season with salt and pepper",
+            "8": "Put wholewheat bread in toaster and toast.now add grated cheese and let it melt till slightly brown in oven",
+            "9": "Add soup to soup bowl with a good amount of onions. Top with toast and serve"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "4",
+                "unit_name": "",
+                "name": "onions, sliced",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "butter",
+                "category": ""
+            },
+            {
+                "name": "A little olive oil or canola spray",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "tbsp",
+                "name": "white wine",
+                "category": ""
+            },
+            {
+                "name": "A sprig or two of fresh or dry thyme",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "4",
+                "unit_name": "cups",
+                "name": "chicken stock, large",
+                "category": ""
+            },
+            {
+                "name": "Salt and pepper",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "A piece of whole wheat toast baked in oven with grated gouda cheese till it browns slightly.",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "garlic paste, finely chopped",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "French",
+        "recipe_courses": [
+            "Soups & Stews"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Coq Au Vin Recipe",
+        "author": "Chengfeng",
+        "description": "A French country classic - chicken in red wine with bacon and mushrooms.",
+        "photo_url": "https://www.ndtv.com/cooks/images/coq-au-vin-new_med.jpg",
+        "servings": 8,
+        "prep_time": "10 mins",
+        "cook_time": "40 mins",
+        "recipe_directions": {
+            "1": "Brown chicken in hot butter.   Remove from pan and add bacon strips and saute until golden",
+            "2": "Replace chicken in pan and flambe with Cognac",
+            "3": "Pour in wine and stock",
+            "4": "Add tomato and garlic paste, bay leaf and thyme",
+            "5": "Cover pan and simmer for 25 minutes till chicken is tender.  Remove chicken pieces",
+            "6": "Let  sauce and thicken with 1 tea spoon of butter mixed with flour",
+            "7": "Add onions and mushrooms to the pan. Allow to heat and spoon over the chicken",
+            "8": "Serve with parsley potatoes and buttered peas"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "jointed chicken with the skin",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "butter",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "gm",
+                "name": "bacon - cut into 1/2",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "tbsp",
+                "name": "cognac (optional)",
+                "category": ""
+            },
+            {
+                "name": "Salt and pepper",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "350",
+                "unit_name": "ml",
+                "name": "red wine",
+                "category": ""
+            },
+            {
+                "quantity": "250",
+                "unit_name": "ml",
+                "name": "chicken stock",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "thick tomato paste",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tsp",
+                "name": "garlic paste",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "bay leaf",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "tsp",
+                "name": "thyme",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "butter",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "flour",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "gm",
+                "name": "button onions- browned in butter",
+                "category": ""
+            },
+            {
+                "quantity": "250",
+                "unit_name": "gm",
+                "name": "quartered mushrooms - browned in butter",
+                "category": ""
+            },
+            {
+                "name": "Chopped parsley to garnish",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "French",
+        "recipe_courses": [
+            "Soups & Stews"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "French Onion Soup with Cheese Souffle Recipe",
+        "author": "Preah Narang",
+        "description": "A classic French onion soup served with cheese souffle as light as a feather.",
+        "photo_url": "https://c.ndtvimg.com/2021-06/6cbso2q8_soup_625x300_23_June_21.jpg",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "1 hr",
+        "recipe_directions": {
+            "1": "Heat butter in a saucepan",
+            "2": "Add the flour and stir over low heat for some time to make a paste",
+            "3": "Pour in the milk, continue stirring and bring to boil making a smooth thick sauce",
+            "4": "Mix in the mustard, pepper and salt",
+            "5": "Switch off the gas and stir in the cheese",
+            "6": "Let the sauce cool and the beaten egg yolks gradually with a wooden spoon",
+            "7": "In another bowl, whisk the egg whites with a pinch of salt until stiff but not dry",
+            "8": "Fold it into the cheese sauce with a light hand",
+            "9": "Now pour the soup into a baking dish and place the toasts on top.     Pour the souffle mixture over the toasts. Sprinkle the bread crumbs, cheese and butter on top",
+            "10": "Heat the oven to 230 degrees and bake for about 20 minutes or until the souffle is well risen and golden in colour.     Serve immediately"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "3",
+                "unit_name": "tbsp",
+                "name": "olive oil",
+                "category": ""
+            },
+            {
+                "quantity": "20",
+                "unit_name": "gm",
+                "name": "butter",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "castor sugar",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "kg",
+                "name": "onions - sliced",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "cups",
+                "name": "vegetable stock",
+                "category": ""
+            },
+            {
+                "quantity": "4",
+                "unit_name": "",
+                "name": "rounds of buttered toast",
+                "category": ""
+            },
+            {
+                "quantity": "20",
+                "unit_name": "gm",
+                "name": "butter",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "flour",
+                "category": ""
+            },
+            {
+                "quantity": "2/3",
+                "unit_name": "cups",
+                "name": "warm milk",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "French mustard",
+                "category": ""
+            },
+            {
+                "name": "Salt - to taste",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Pepper - to taste",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "egg yolks",
+                "category": ""
+            },
+            {
+                "quantity": "4",
+                "unit_name": "tbsp",
+                "name": "grated cheese",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "",
+                "name": "egg whites",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "bread crumbs",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "French",
+        "recipe_courses": [
+            "Soups & Stews"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Fenugreek and Lal Maat Crostini Recipe",
+        "author": "NDTV Food",
+        "description": "Crusty bread sprinkled with olive oil, topped off with cottage cheese/tofu, fenugreek and laal maat leaves.",
+        "photo_url": "https://c.ndtvimg.com/2021-01/opb6idoo_herbs-marinated-chargrilled-prawns-and-avocado-crostini_625x300_26_January_21.jpg",
+        "servings": 12,
+        "prep_time": "10 min",
+        "cook_time": "25 mins",
+        "recipe_directions": {
+            "1": "Heat up some olive oil, throw in the cumin seeds, once they crackle add the diced onions and garlic",
+            "2": "Saute for a minute",
+            "3": "Add the red chilli flakes, diced peeled tomatoes and cook for another minute",
+            "4": "Toss in the blanched fenugreek and laal maat leaves",
+            "5": "Season to taste",
+            "6": "Slice the crusty bread into thick slices",
+            "7": "Brush with olive oil and grill or toast lightly",
+            "8": "Rub the slice with the garlic clove",
+            "9": "Spoon the mixture on to the bread",
+            "10": "Alternatively, you can add the tofu or cottage cheese into the mixture"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "olive oil",
+                "category": ""
+            },
+            {
+                "quantity": "50",
+                "unit_name": "gms",
+                "name": "onions diced fine",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "garlic chopped/minced",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "cumin seeds",
+                "category": ""
+            },
+            {
+                "quantity": "1/3",
+                "unit_name": "tsp",
+                "name": "red chilli flakes",
+                "category": ""
+            },
+            {
+                "quantity": "60",
+                "unit_name": "gms",
+                "name": "blanched methi leaves",
+                "category": ""
+            },
+            {
+                "quantity": "80",
+                "unit_name": "gms",
+                "name": "blanched laal maat leaves",
+                "category": ""
+            },
+            {
+                "quantity": "20",
+                "unit_name": "gms",
+                "name": "diced cottage cheese/ firm tofu",
+                "category": ""
+            },
+            {
+                "quantity": "1/3",
+                "unit_name": "cup",
+                "name": "diced peeled tomatoes (blanched)",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "",
+                "name": "slices multigrain bread/crusty bread",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "clove garlic peeled (chopped)",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Greek",
+        "recipe_courses": [
+            "Side Dishes",
+            "Salad"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "title": "Methi and Lotus Root Salad (Fenugreek & Lotus Root Salad) Recipe",
+        "author": "Chengfeng",
+        "description": "A healthy and delicious salad full of veggies with a tangy bit of lemon and spice along with the creamy layer of yoghurt.",
+        "photo_url": "https://i.ndtvimg.com/i/2018-04/salad_620x350_41522907423.jpg",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "1 hr",
+        "recipe_directions": {
+            "1": "Blend methi, mint, sugar, chilli powder, chickpeas and oil together",
+            "2": "Season with salt and pepper. Sharpen with lemon juice",
+            "3": "Whisk in yoghurt and serve with salad",
+            "4": "Combine guavas and potatoes. Season"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Sticks Lotus root (peeled) , sliced",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Corn flour",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Guavas, sliced",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "kg",
+                "name": "Cooked potatoes, peeled",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Bunch Methi, chopped",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Mint, chopped",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tsp",
+                "name": "Sugar",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Red chilli powder",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Cooked chickpeas",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Oil",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Salt and Pepper",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Lemon juice",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "tbsp",
+                "name": "Yoghurt",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Greek",
+        "recipe_courses": [
+            "Side Dishes",
+            "Salad"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "title": "Greek Salad with Lemon Dressing Recipe",
+        "author": "Ajay Chopra",
+        "description": "Experience the freshness of herbs and veggies combined with a subtle drizzle of a refreshing dressing. This vibrant salad adds a splash of beautiful colours on your plate!",
+        "photo_url": "https://www.ndtv.com/cooks/images/Greek%20Salad%20with%20Lemon%20Dressing.jpg",
+        "servings": 4,
+        "prep_time": "05 mins",
+        "cook_time": "20 mins",
+        "recipe_directions": {
+            "1": "Combine lemon juice, oregano, vinegar, garlic, salt, pepper powder, olive oil and parsley in a bowl and mix well",
+            "2": "Mix together cucumber, tomatoes, onions, capsicum, yellow and red bell pepper and olives in a bowl and toss well",
+            "3": "Pour the dressing on top, add lettuce and toss well",
+            "4": "Add feta cheese and mix gently",
+            "5": "Serve chilled"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "medium cucumber, peeled and cut into triangles",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "medium tomatoes, cut into triangles",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "medium onions, cut into quarters and layers separated",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "small green capsicum, cut into triangles",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "small yellow bell pepper, cut into triangles",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "small red bell pepper, cut into triangles",
+                "category": ""
+            },
+            {
+                "quantity": "6",
+                "unit_name": "",
+                "name": "black olives, seeded",
+                "category": ""
+            },
+            {
+                "quantity": "20",
+                "unit_name": "gm",
+                "name": "feta cheese, cut into cubes",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "",
+                "name": "lollo rosso lettuce, torn",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "lemon juice",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "chopped fresh oregano",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tbsp",
+                "name": "white wine vinegar",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "chopped garlic",
+                "category": ""
+            },
+            {
+                "name": "Salt to taste",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "black pepper powder",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "olive oil",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "chopped fresh parsley",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Greek",
+        "recipe_courses": [
+            "Side Dishes",
+            "Salad"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "title": "Classic Pasta Amatriciana Recipe",
+        "author": "Abe",
+        "description": "About Classic Pasta Amatriciana: An easy Italian tomato sauce, flavoured with crispy pancetta, sauteed onion and garlic, All\u2019amatriciana is one of the most classical Italian pasta sauces. Believe us or not, this dish is heavenly and a must-try!",
+        "photo_url": "https://c.ndtvimg.com/2020-06/13nvldmo_pasta_625x300_24_June_20.jpg",
+        "servings": 5,
+        "prep_time": "30 mins",
+        "cook_time": "50 mins",
+        "recipe_directions": {
+            "1": "Heat the olive oil in a large skillet over medium heat. Add the diced bacon and cook, stirring frequently, until most of the fat has rendered into the pan and the bacon is crispy and caramelized slightly",
+            "2": "Add the diced onion and saute in the rendered fat for 3 to 5 minutes, stirring frequently, until the onions are soft and lightly caramelized",
+            "3": "Add the garlic and continue to saute for an addition 2 to 3 minutes, being careful to avoid burning the garlic or onion. Deglaze the pan with a tablespoon of water or red wine (optional), to remove any bits of crispy pancetta or bits from the bottom of the pan",
+            "4": "Add the tomato paste and the dried herbs and continue to cook, stirring frequently, over medium heat for an addition 1 to 2 minutes, or until the paste has thickened slightly",
+            "5": "Add the tomatoes,bring the sauce to a low simmer, and cook, stirring every few minutes, for 15 to 20 minutes. The sauce should be relatively thick and season to taste with salt. Place over low heat while you cook the pasta",
+            "6": "Meanwhile, bring a large pot of salted water to boil. Add the pasta and cook until al-dente. Reserve 1/2 to 3/4 cup of the pasta cooking water in a measuring cup, and then drain the pasta. Return the drained pasta back into the pot, add the sauce, thinning with pasta cooking water as necessary until the pasta is evenly coated",
+            "7": "Serve pasta with a topping of cherry tomatoes, olives ,extra virgin olive oil and some grated Parmigiano-Reggiano cheese "
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "extra virgin olive oil",
+                "category": ""
+            },
+            {
+                "quantity": "30",
+                "unit_name": "gms",
+                "name": "butter, unsalted",
+                "category": ""
+            },
+            {
+                "quantity": "150",
+                "unit_name": "gms",
+                "name": "pancetta or bacon (diced)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Onion (diced)",
+                "category": ""
+            },
+            {
+                "quantity": "6",
+                "unit_name": "",
+                "name": "Garlic cloves (minced)",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "tomato paste",
+                "category": ""
+            },
+            {
+                "quantity": "8",
+                "unit_name": "",
+                "name": "Tomatoes (riped), chopped",
+                "category": ""
+            },
+            {
+                "name": "Cherry tomatoes",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Olives",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Ham (optional)",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "50",
+                "unit_name": "gms",
+                "name": "parmigiano-reggiano cheese (plus more for serving), grated",
+                "category": ""
+            },
+            {
+                "name": "Salt",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "parsley",
+                "category": ""
+            },
+            {
+                "quantity": "350",
+                "unit_name": "gms",
+                "name": "dried Fusili pasta or any type available",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "dried herbs (thyme , rosemary, oregano)",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Italian",
+        "recipe_courses": [
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Fettuccine Pomodoro Recipe",
+        "author": "Swaminandan - Crowne Plaza Today New Delhi Okhla",
+        "description": "About Fettuccine Pomodoro Recipe: A light, quick and easy pasta recipe, Fettuccine Pomodoro is a delicious dish for breakfast, brunch or kid's tiffin!",
+        "photo_url": "https://c.ndtvimg.com/0oc68rbg_fettuccine-pomodoro_625x300_30_August_18.jpg",
+        "servings": 4,
+        "prep_time": "15 mins",
+        "cook_time": "50 mins",
+        "recipe_directions": {
+            "1": "Heat oil in a large skillet over medium-low flame",
+            "2": "Cook onion, stirring occasionally, until soft, 10\u201312 minutes",
+            "3": "Add garlic and cook, stirring, about 3 minutes",
+            "4": "Add red pepper flakes and cook, stirring for a minute",
+            "5": "Increase heat to medium, add pur\u00e9ed tomatoes, and season lightly with salt",
+            "6": "Cook, stirring occasionally, until sauce thickens slightly and flavors have come together, 20\u201325 minutes. Remove from heat and stir in basil",
+            "7": "Set skillet over high heat and stir in reserved pasta cooking liquid to loosen sauce; bring to a boil",
+            "8": "Add pasta and cook, stirring, until sauce coats pasta and pasta is al dente",
+            "9": "Serve garnished with fresh basil sprig and olive powder"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "400",
+                "unit_name": "gram",
+                "name": "Fettucine pasta, blanched",
+                "category": ""
+            },
+            {
+                "quantity": "150",
+                "unit_name": "ml",
+                "name": "Olive oil",
+                "category": ""
+            },
+            {
+                "quantity": "18",
+                "unit_name": "gram",
+                "name": "Onion, chopped",
+                "category": ""
+            },
+            {
+                "quantity": "15",
+                "unit_name": "gram",
+                "name": "Garlic, chopped",
+                "category": ""
+            },
+            {
+                "quantity": "700",
+                "unit_name": "gram",
+                "name": "Roma tomato (diced)",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gram",
+                "name": "Red pepper flakes",
+                "category": ""
+            },
+            {
+                "quantity": "20",
+                "unit_name": "gram",
+                "name": "Fresh basil",
+                "category": ""
+            },
+            {
+                "quantity": "60",
+                "unit_name": "gram",
+                "name": "Butter, unsalted",
+                "category": ""
+            },
+            {
+                "quantity": "8",
+                "unit_name": "gram",
+                "name": "Dried olive powder",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Italian",
+        "recipe_courses": [
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Lemon Chicken and Rocket Pasta Recipe",
+        "author": "Surjan Singh",
+        "description": "A recipe that you can share with your little one. A easy pasta with lime and lemony chicken chunks, fresh rocket leaves, pine nuts and cheese.",
+        "photo_url": "https://www.ndtv.com/cooks/images/Lemon.Chicken.and.Rocket.Pasta.3.jpg",
+        "servings": 5,
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "recipe_directions": {
+            "1": "In a saucepan, cook pasta in boiling, salted water for 10-12 minutes or until al dente. Drain and return pasta to saucepan",
+            "2": "In a medium bowl, combine remaining ingredients except Parmesan. Pour on pasta and toss",
+            "3": "To serve, top pasta with Parmesan"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "150",
+                "unit_name": "gm",
+                "name": "pasta",
+                "category": ""
+            },
+            {
+                "quantity": "200",
+                "unit_name": "gm",
+                "name": "cooked chicken breast fillets, shredded",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "of toasted pine nuts",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "bunch of rocket, shredded",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "of lemon juice",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "of canola oil",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "clove garlic, crushed",
+                "category": ""
+            },
+            {
+                "name": "Sea salt",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Cracked black pepper",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Finely grated Parmesan",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Italian",
+        "recipe_courses": [
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Pizza Panne Recipe",
+        "author": "Ajay Chopra",
+        "description": "Enjoy the crisp crunch of these paper thin snacks. Infused will garlic and subtle spices, you can team them up with whatever you desire or just go on a solo affair!",
+        "photo_url": "https://www.ndtv.com/cooks/images/Pizza%20Panne.jpg",
+        "servings": 2,
+        "prep_time": "05 mins",
+        "cook_time": "45 mins",
+        "recipe_directions": {
+            "1": "Preheat oven at 180\u00b0C",
+            "2": "Place a silicon sheet on a baking tray",
+            "3": "Dissolve yeast and 1 1/2 tbsp sugar in 1/4 cup lukewarm water",
+            "4": "Combine 1/2 tsp salt and refined flour in a dough maker",
+            "5": "Add dissolved yeast mixture and knead into a soft dough using 3 1/2 tbsp olive oil and sufficient water",
+            "6": "Remove the dough from the maker and set aside for about 20 minutes",
+            "7": "Dust the worktop with little flour and spread the dough with your fingers",
+            "8": "Roll out into a large thin disc dusting with flour",
+            "9": "Spread the remaining olive oil on it",
+            "10": "Add torn fresh rosemary and chopped garlic on top and rub them well",
+            "11": "Cut the disc into long triangles and place them on the baking tray",
+            "12": "Put tray in preheated oven and bake for 8-10 minutes",
+            "13": "Remove from heat and serve immediately"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "450",
+                "unit_name": "gm",
+                "name": "refined flour + for dusting",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gm",
+                "name": "yeast",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "sugar",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "salt + to taste",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "tbsp",
+                "name": "olive oil",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "fresh rosemary sprig",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "large pinch chopped garlic",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Italian",
+        "recipe_courses": [
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Chicken Balls in Yakitori Sauce Recipe",
+        "author": "Divya Burman",
+        "description": "Lovely chicken mince balls steamed, then skewered and grilled and finally dipped in  a flavorful yakitori sauce.",
+        "photo_url": "https://www.ndtv.com/cooks/images/chicken-balls-in-yakitori-sauce_med.jpg",
+        "servings": 6,
+        "prep_time": "10 min",
+        "cook_time": "01 mins",
+        "recipe_directions": {
+            "1": "Take a thick bottomed pan and boil the mirin. When boiling, flame it till all alcohol burns off",
+            "2": "Mix soya, sugar, sake and add to the reduced mirin",
+            "3": "Cut the ginger, carrots, apple, celery into 1 inch cubes and throw in sauce",
+            "4": "Blanch the chicken bones in boiling water and add to sauce",
+            "5": "Cook 1 hour and thicken with cornflour",
+            "6": "Dip in yakitori sauce and serve"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1",
+                "unit_name": "kg",
+                "name": "chicken mince (chicken legs with skin)",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "gm",
+                "name": "carrots, finely chopped",
+                "category": ""
+            },
+            {
+                "quantity": "20",
+                "unit_name": "",
+                "name": "mushrooms, finely chopped",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "onion, chopped",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gm",
+                "name": "lemon rind, grated",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "egg white",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "ml",
+                "name": "soya",
+                "category": ""
+            },
+            {
+                "quantity": "50",
+                "unit_name": "ml",
+                "name": "mirin",
+                "category": ""
+            },
+            {
+                "quantity": "50",
+                "unit_name": "ml",
+                "name": "sake",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gm",
+                "name": "black sesame seeds",
+                "category": ""
+            },
+            {
+                "name": "Honduchi, pinch (optional)",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "oil, to grill the chicken balls",
+                "category": ""
+            },
+            {
+                "quantity": "900",
+                "unit_name": "ml",
+                "name": "soya sauce",
+                "category": ""
+            },
+            {
+                "quantity": "900",
+                "unit_name": "ml",
+                "name": "mirin",
+                "category": ""
+            },
+            {
+                "quantity": "450",
+                "unit_name": "ml",
+                "name": "cooking sake",
+                "category": ""
+            },
+            {
+                "quantity": "350",
+                "unit_name": "gm",
+                "name": "sugar, granulated",
+                "category": ""
+            },
+            {
+                "quantity": "75",
+                "unit_name": "gm",
+                "name": "ginger, peeled",
+                "category": ""
+            },
+            {
+                "quantity": "500",
+                "unit_name": "gm",
+                "name": "chicken bones",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "green apple",
+                "category": ""
+            },
+            {
+                "quantity": "50",
+                "unit_name": "gm",
+                "name": "celery",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "gm",
+                "name": "carrots",
+                "category": ""
+            },
+            {
+                "quantity": "20",
+                "unit_name": "gm",
+                "name": "cornflour",
+                "category": ""
+            },
+            {
+                "name": "Skewers soaked in water overnight",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Japanese",
+        "recipe_courses": [
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Japanese Soba Noodles Recipe",
+        "author": "Plavaneeta Borah",
+        "description": "Easy to make, these noodles taste delicious when stir-fried with teriyaki sauce. Throw in some veggies like mushrooms and carrots, caramalised pork strips (if you like) or just dunk them in dashi.",
+        "photo_url": "https://www.ndtv.com/cooks/images/soba-noodles-new.jpg",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "1 hr 15 mins",
+        "recipe_directions": {
+            "1": "Sift together the buckwheat, wheat flour and salt in a large mixing bowl",
+            "2": "Pour the water, a little at a time, and start rubbing the flours with your fingers. Work it well to bring it together to form a dough. Knead well, if it gets dry, add a little water and knead again",
+            "3": "Cover with a moist kitchen towel and keep it in the refrigerator for 30 minutes",
+            "4": "Take it out, and knead again. Divide into 4 balls, and dunk each ball in cornflour or starch before rolling it out. Use a big rolling pin, try to make the dough as thin as possible, but be careful as it may get a little crumbly and crack. A clever trick is to roll it as much as you can, then cut it into a rectangular sheet to remove the cracks. Keep sprinkling some corn flour to prevent it from sticking",
+            "5": "Layer all the rectangular sheets, making sure that you have sprinkled enough cornflour in between the layers. Using a large knife, carefully slice the dough to make thin strips",
+            "6": "Bring a large saucepan of water to a boil and cook the noodles in small batches for 2 minutes",
+            "7": "Heat oil in a wok, and stir-fry the onions for 3-4 minutes until softened. Add the mushrooms and carrots and toss well",
+            "8": "Add the noodles and teriyaki sauce and mix well. Let it cook for 2 minutes",
+            "9": "Season with salt and tip in the spring onions. Toss well and serve immediately"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "4/5",
+                "unit_name": "cup",
+                "name": "buckwheat flour",
+                "category": ""
+            },
+            {
+                "quantity": "1/5",
+                "unit_name": "cup",
+                "name": "wholewheat flour",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "cup",
+                "name": "hot water",
+                "category": ""
+            },
+            {
+                "name": "A pinch of salt",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Starch or cornflour, for dusting",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "teriyaki sauce",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "onions, thinly sliced",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "carrots, julienned",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "oil",
+                "category": ""
+            },
+            {
+                "name": "A few sprigs spring onions, chopped",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "250",
+                "unit_name": "gm",
+                "name": "button mushrooms, roughly chopped",
+                "category": ""
+            },
+            {
+                "name": "Salt to taste",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Japanese",
+        "recipe_courses": [
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Mediterranean Watermelon Salad Recipe",
+        "author": "NDTV Food",
+        "description": "Mediterranean Watermelon Salad Recipe: A quick serving of a refreshing salad with hydrating ingredients. Watermelon cubes, cucumber, tomatoes, lettuce and bell peppers drizzled with a light dressing.Total Cook Time 30 mins Prep Time 10 mins Cook Time 20 mins Recipe Servings2EasyIngredients of Mediterranean Watermelon Salad1 bowl  watermelon cubes2  Yellow bell peppers1 cup onions1 cup cucumber1 cup tomatoes  Pomegranate juice1 tbsp mustard paste2 tbsp olive oil A pinch of jeera powder A pinch of oregano 10-12  Olives  parsley, chopped  Romaine lettuce  Rocket lettuce  Flax seeds  Pistachios  Salt & pepperHow to Make Mediterranean Watermelon SaladHideShow \n                                            Media\n                                        1.Pour pomegranate juice into a bowl.2.Add mustard paste, oregano, jeera powder, salt & pepper and whisk it well. Then add olive oil.3.In another bowl, put the watermelon cubes, yellow bell peppers, onions, cucumber, tomatoes and olives.4.Add parsley, salt and pepper. Mix them all well. Add lettuce leaves, flax seeds and pistachios. Add to the watermelon mixture. Toss it well.5.Serve chilled.Key Ingredients: watermelon cubes, Yellow bell peppers, onions, cucumber, tomatoes, Pomegranate juice, mustard paste, olive oil, jeera powder, oregano , Olives, parsley, Romaine lettuce, Rocket lettuce, Flax seeds, Pistachios, Salt & pepper\n                                        Tags:\n                                    Quick And EasySaladSummers5 Share Recipe Share Recipe Facebook\n                 Twitter\n                 Reddit\n                 \n                    Snapchat",
+        "photo_url": "https://www.ndtv.com/cooks/images/watermelon-620.jpg",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "recipe_directions": {
+            "1": "Pour pomegranate juice into a bowl",
+            "2": "Add mustard paste, oregano, jeera powder, salt & pepper and whisk it well. Then add olive oil",
+            "3": "In another bowl, put the watermelon cubes, yellow bell peppers, onions, cucumber, tomatoes and olives",
+            "4": "Add parsley, salt and pepper. Mix them all well. Add lettuce leaves, flax seeds and pistachios. Add to the watermelon mixture. Toss it well",
+            "5": "Serve chilled"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "bowl  watermelon cubes",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Yellow bell peppers",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "onions",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "cucumber",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "tomatoes",
+                "category": ""
+            },
+            {
+                "name": "Pomegranate juice",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "mustard paste",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "olive oil",
+                "category": ""
+            },
+            {
+                "name": "A pinch of jeera powder",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "A pinch of oregano",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Olives",
+                "category": ""
+            },
+            {
+                "name": "parsley, chopped",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Romaine lettuce",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Rocket lettuce",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Flax seeds",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Pistachios",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Salt & pepper",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Mediterranean",
+        "recipe_courses": [
+            "Salad"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "title": "Pasta with Roasted Mediterranean Veggies Recipe",
+        "author": "NDTV Food",
+        "description": "About Pasta with Roasted Mediterranean Veggies Recipe: Pasta, eggplants and yellow squash tossed with a light and herby dressing.",
+        "photo_url": "https://i.ndtvimg.com/i/2018-04/pasta_620x350_81524819833.jpg",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "30 mins",
+        "recipe_directions": {
+            "1": "In a mixer add garlic, basil, parsley, white wine vinegar, pinch of salt and extra virgin oil",
+            "2": "Blend till it turns into a nice paste",
+            "3": "Now get the veggies out of the oven and add the pasta, cherry tomatoes and olives to it",
+            "4": "Pour all the dressing on the pasta and give it a nice toss",
+            "5": "Add parsley and garnish with chives",
+            "6": "Sprinkle the yellow squash and eggplant with herbs, oregano, thyme, rosemary, basil, salt and pepper",
+            "7": "Put into the oven for 10 minutes for 250 degrees until cooked yet firm"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "120",
+                "unit_name": "gms",
+                "name": "pasta",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "medium eggplant, peeled",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "",
+                "name": "Zucchini",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "",
+                "name": "Yellow squash",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "bunch parsley, small",
+                "category": ""
+            },
+            {
+                "name": "Few basil leaves",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "7",
+                "unit_name": "",
+                "name": "cherry tomatoes",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "",
+                "name": "Carrot",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "extra virgin olive oil",
+                "category": ""
+            },
+            {
+                "quantity": "8",
+                "unit_name": "",
+                "name": "Olives",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Garlic cloves",
+                "category": ""
+            },
+            {
+                "name": "Few oregano leaves",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Few rosemary leaves",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Few thyme leaves",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "To season  salt and pepper",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "red chilly fakes",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "white wine vinegar",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Mediterranean",
+        "recipe_courses": [
+            "Salad"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian"
+        ]
+    },
+    {
+        "title": "Jowar Tacos with Spicy Chicken Filling Recipe",
+        "author": "Plavaneeta Borah",
+        "description": "Jowar Tacos with Spicy Chicken Filling  : Quick to rustle up, make the tortilla from scratch with this simple recipe using jowar flour. Fill it up with spicy chicken, lots of crisp veggies and indulge!Total Cook Time 11 mins Prep Time 10 mins Cook Time 01 mins Recipe Servings2MediumIngredients of Jowar Tacos with Spicy Chicken FillingFor the Tacos  3/4 cup jowar flour  1/4 cup wheat flour  1 tsp baking powder  1/4 tsp salt  40 gram cold butterFor the Spicy Chicken Filling  1 chicken breast, cut into small cubes  1 onion, ground into paste  1 tsp fresh ginger paste  1 tsp fresh garlic paste  3 ripe tomatoes, chopped  1 tsp paprika  Salt to taste  1/2 tsp jaggery  1 tsp dried herbs, oregano  2 Tbsp oil  To Assemble  Crisp greens of your choice, sliced (lettuce, peppers, onions, corns)  Cream cheese or hung yoghurt  Barbecue sauce (optional)How to Make Jowar Tacos with Spicy Chicken FillingHideShow \n                                            Media\n                                        For the Tacos1.Sift together jowar flour, wheat flour, salt and baking powder in a large mixing bowl. Add the butter cubes and start rubbing the mixture using your fingers until it resembles bread crumbs.2.Pour in some warm water, a little at a time, and continue kneading until it forms a soft dough. Wrap it with a cling-film and keep in the refrigerator for 30 minutes.3.Take the dough and knead it a little. Divide it into small balls, about 7-8, and using a rolling pin, shape them into circular discs. You may require some flour for dusting while rolling the balls.4.Heat a tawa and roast the tacos on both sides on medium flame until done. Then transfer to a pre-heated oven set at 150 degree C and bake for 5 minutes.5.Remove from the oven. Place the rolling pin at the centre of each taco and slight bend the edges.For the Spicy Chicken Filling1.In the meantime, make the filling. Heat oil in a large pan. Add the onion, garlic and ginger pastes and saute for 2-3 minutes on medium flame.2.Add the tomatoes and saute for 4-5 minutes until the mixture is nice and pulpy.3.Add paprika, jaggery and salt, and mix well. Tip in the chicken cubes, coat well in the mixture. Cover the pan with a lid and allow it to cook for 7-8 minutes until done.4.Mix in the oregano and check seasoning.5.To Assemble6.Load the tacos with the spicy chicken filling, fresh greens, cream cheese or hung yoghurt and serve immediately.Key Ingredients: 3/4 cup jowar flour, 1/4 cup wheat flour, 1 tsp baking powder, 1/4 tsp salt, 40 gram cold butter, 1 chicken breast, cut into small cubes, 1 onion, ground into paste, 1 tsp fresh ginger paste, 1 tsp fresh garlic paste, 3 ripe tomatoes, chopped, 1 tsp paprika, Salt to taste, 1 tsp dried herbs, oregano, 2 Tbsp oil, To Assemble, Crisp greens of your choice, sliced (lettuce, peppers, onions, corns), Cream cheese or hung yoghurt, Barbecue sauce (optional)\n                                        Tags:\n                                    ChickenJowarSnacksTacosWheat Flour4 Share Recipe Share Recipe Facebook\n                 Twitter\n                 Reddit\n                 \n                    Snapchat",
+        "photo_url": "https://www.ndtv.com/cooks/images/jowar-tacos-new.jpg",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "01 mins",
+        "recipe_directions": {
+            "1": "In the meantime, make the filling. Heat oil in a large pan. Add the onion, garlic and ginger pastes and saute for 2-3 minutes on medium flame",
+            "2": "Add the tomatoes and saute for 4-5 minutes until the mixture is nice and pulpy",
+            "3": "Add paprika, jaggery and salt, and mix well. Tip in the chicken cubes, coat well in the mixture. Cover the pan with a lid and allow it to cook for 7-8 minutes until done",
+            "4": "Mix in the oregano and check seasoning",
+            "5": "To Assemble",
+            "6": "Load the tacos with the spicy chicken filling, fresh greens, cream cheese or hung yoghurt and serve immediately"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "3/4",
+                "unit_name": "cup",
+                "name": "jowar flour",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "cup",
+                "name": "wheat flour",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "baking powder",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "tsp",
+                "name": "salt",
+                "category": ""
+            },
+            {
+                "quantity": "40",
+                "unit_name": "gram",
+                "name": "cold butter",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "chicken breast, cut into small cubes",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "onion, ground into paste",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "fresh ginger paste",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "fresh garlic paste",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "",
+                "name": "ripe tomatoes, chopped",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "paprika",
+                "category": ""
+            },
+            {
+                "name": "Salt to taste",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tsp",
+                "name": "jaggery",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "dried herbs, oregano",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "oil",
+                "category": ""
+            },
+            {
+                "name": "To Assemble",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Crisp greens of your choice, sliced (lettuce, peppers, onions, corns)",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Cream cheese or hung yoghurt",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Barbecue sauce (optional)",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Mexican",
+        "recipe_courses": [
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Chicken Tagine With Olives And Preserved Lemons Recipe",
+        "author": "Farah Mohamed",
+        "description": "Chicken Tagine is basically a traditional Moroccan dish. It is made with chicken and vegetables along with flavourful spices and served with any type of rice, preserved lemon and green olives.",
+        "photo_url": "https://c.ndtvimg.com/2021-07/67hm39no_chicken_625x300_21_July_21.jpg",
+        "servings": 2,
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "recipe_directions": {
+            "1": "Mix garlic, saffron, ginger, paprika, cumin and turmeric together. If not using kosher chicken, add 1/2 teaspoon salt. Add pepper to taste. Rub chicken with mixture, cover, refrigerate and marinate 3 to 4 hours",
+            "2": "Heat oil in heavy skillet. Add chicken, and brown on all sides. Remove to platter. Add onions to skillet, and cook over medium-low heat about 15 minutes, until lightly browned",
+            "3": "Transfer to tagine, if you are using one, or leave in skillet. Add cinnamon stick",
+            "4": "Put chicken on onions and scatter with olives. Quarter the lemons, remove pulp and cut skin into strips. Then, scatter it  over the chicken. Mix stock along with lemon juice and pour it over chicken",
+            "5": "Cover tagine or skillet. Place over low heat, and cook about 30 minutes, until chicken is done. Scatter parsley on top, and serve"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "5",
+                "unit_name": "",
+                "name": " Finely chopped garlic cloves",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "tsp",
+                "name": "Saffron threads",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "tsp",
+                "name": "Ground ginger",
+                "category": ""
+            },
+            {
+                "quantity": "1/4",
+                "unit_name": "tsp",
+                "name": "Ground cumin and Turmeric",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Sweet paprika",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tsp",
+                "name": "Extra virgin olive oil",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "",
+                "name": "Medium Onions (thinly sliced)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "kg",
+                "name": "Chicken (cut in 8 to 10 pieces)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Cinnamon stick",
+                "category": ""
+            },
+            {
+                "quantity": "8",
+                "unit_name": "",
+                "name": "pcs  Kalamata olives, pitted and halved",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "large or 3 small  Preserved lemons",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "cup",
+                "name": "Chicken stock",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "cup",
+                "name": "Lemon juice",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Chopped flat-leaf parsley",
+                "category": ""
+            },
+            {
+                "name": "Salt and freshly ground black pepper",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Moroccan",
+        "recipe_courses": [
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Spanish Valencia Prawns Recipe",
+        "author": "Vijay Anand Bakshi",
+        "description": "An effortless and classy preparation of prawns with paprika, red wine and lemon juice; served with a spicy dip.",
+        "photo_url": "https://www.ndtv.com/cooks/images/spanish-valencia-prawns-new.jpg",
+        "servings": 2,
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "recipe_directions": {
+            "1": "In a round bowl, mix paprika powder, red wine, shrimp powder, saffron, salt and vegetable oil. Whisk well",
+            "2": "Add fried onions and fried garlic. Check seasoning",
+            "3": "Peel, de-vein and clean prawns",
+            "4": "Add lemon juice. Marinate for 45 minutes",
+            "5": "Grill over moderate charcoal fire and serve hot with a medium spice dip"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "12",
+                "unit_name": "",
+                "name": "medium sized prawns",
+                "category": ""
+            },
+            {
+                "quantity": "20",
+                "unit_name": "ml",
+                "name": "refined sunflower oil",
+                "category": ""
+            },
+            {
+                "quantity": "20",
+                "unit_name": "ml",
+                "name": "dry red wine",
+                "category": ""
+            },
+            {
+                "quantity": "10",
+                "unit_name": "gms",
+                "name": "shrimp powder",
+                "category": ""
+            },
+            {
+                "name": "A pinch of saffron",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "20",
+                "unit_name": "gms",
+                "name": "paprika",
+                "category": ""
+            },
+            {
+                "quantity": "20",
+                "unit_name": "ml",
+                "name": "lemon juice",
+                "category": ""
+            },
+            {
+                "name": "Salt to taste",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "30",
+                "unit_name": "gms",
+                "name": "chopped onion - fried golden",
+                "category": ""
+            },
+            {
+                "quantity": "30",
+                "unit_name": "gms",
+                "name": "chopped garlic - fried golden",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Spanish",
+        "recipe_courses": [
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Young Jackfruit and Water Chestnut Thai Red Curry Recipe",
+        "author": "Sudeep Sinha -  Alila Diwa Goa",
+        "description": "About Young Jackfruit and Water Chestnut Thai Red Curry Recipe: A delicious, easy and quick meal for dinner or even the next morning's breakfast, this Thai red curry makes for a perfect dish for both. It's a comfort food that you just cannot miss, rich and full of vegetables. This recipe of Thai red curry has boiled jackfruit and water chestnut simmered in coconut milk along with jaggery to give a sweet-savoury flavour to the dish.",
+        "photo_url": "https://c.ndtvimg.com/thai-red-curry_625x300_1531119392657.jpg",
+        "servings": 2,
+        "prep_time": "10 mins",
+        "cook_time": "30 mins",
+        "recipe_directions": {
+            "1": "Peel and cut the jackfruit into cubes, boil and set aside",
+            "2": "Using a wok, saut\u00e9 lemon grass and galangal with oil",
+            "3": "Add red thai curry paste followed by boiled jack fruit and sliced water chestnut",
+            "4": "Simmer on low heat, add coconut milk and grated jaggery",
+            "5": "Add salt to taste and finish with fresh basil"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "100",
+                "unit_name": "gms",
+                "name": "local jackfruit",
+                "category": ""
+            },
+            {
+                "quantity": "40",
+                "unit_name": "gms",
+                "name": "water chestnut (canned)",
+                "category": ""
+            },
+            {
+                "quantity": "10",
+                "unit_name": "gms",
+                "name": "Thai red curry paste",
+                "category": ""
+            },
+            {
+                "quantity": "50",
+                "unit_name": "ml",
+                "name": "coconut milk",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Kafir lime leaf",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gms",
+                "name": "lemon grass",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Fresh basil leaves",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gms",
+                "name": "galangal",
+                "category": ""
+            },
+            {
+                "name": "to taste salt",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gms",
+                "name": "palm jaggery",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "ml",
+                "name": "refined oil",
+                "category": ""
+            },
+            {
+                "quantity": "40",
+                "unit_name": "gms",
+                "name": "Goan red rice",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Thai",
+        "recipe_courses": [
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Turkish Tulumba Recipe",
+        "author": "Munavar Taher Peerzade - BKC DIVE",
+        "description": "Tulumba is made of bits of fried dough, its the western rendition of the popular Indian Diwali sweet Shakar para, steeped in lots of lemon and sugar syrup(Chashni) and rose. It is a crispy, syrupy and ultra-sweet classic Turkish dessert and a popular street food. You\u2019ll find it being served in many restaurants but it's sold mainly by street vendors who fry it up fresh on the spot and serve it warm. Enjoy this light sweet dish post dinner or as a snack.",
+        "photo_url": "https://i.ndtvimg.com/i/2017-10/turkish-tulumba-recipe_620x350_41508832624.jpg",
+        "servings": 4,
+        "prep_time": "20 mins",
+        "cook_time": "30 mins",
+        "recipe_directions": {
+            "1": "Take a vessel and add all the ingredients into the water and bring it to boil. Reduce the syrup till it becomes slightly viscous",
+            "2": "Once you are satisfied with the consistency, immerse the golden fried doughs into the syrup",
+            "3": "After 10 seconds remove the sticks and your Turkish Tulumba is ready to be served",
+            "4": "Now add the corn flour to the dough and mix it well.\r\nAter that take a piping bag with a star nozzle and empty the entire dough inside the bag and prepare it for pipping",
+            "5": "Now take a vessel for deep frying, bring the oil to a temperature for deep frying the dough",
+            "6": "You can now pipe the dough into long sticks and deep fry the dough till it is golden brown"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "250",
+                "unit_name": "gram",
+                "name": "Flour",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Oil",
+                "category": ""
+            },
+            {
+                "name": "A pinch of Salt",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "quantity": "250",
+                "unit_name": "ml",
+                "name": "Water",
+                "category": ""
+            },
+            {
+                "quantity": "3",
+                "unit_name": "",
+                "name": "Medium Egg",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "gram",
+                "name": "Cornstarch",
+                "category": ""
+            },
+            {
+                "quantity": "500",
+                "unit_name": "gram",
+                "name": "Sugar",
+                "category": ""
+            },
+            {
+                "quantity": "500",
+                "unit_name": "ml",
+                "name": "Water",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "",
+                "name": "Pieces Cinnamon Sticks, small",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "Lemon, sliced",
+                "category": ""
+            },
+            {
+                "quantity": "50",
+                "unit_name": "ml",
+                "name": "Rose Water",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Turkish",
+        "recipe_courses": [
+            "Side Dishes"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian",
+            "Gluten-free"
+        ]
+    },
+    {
+        "title": "Vietnamese Cold Spring Rolls Recipe",
+        "author": "Ritu Dalmia",
+        "description": "About Vietnamese Cold Spring Rolls Recipe: Stuffed with loads of vegetables and shrimps these cold spring rolls are best served with a chilly sauce and peanuts dip. Serve it as snacks at a dinner party or on a Sunday brunch with friends and family.",
+        "photo_url": "https://c.ndtvimg.com/n1426hlo_vietnamese-spring-rolls_625x300_10_August_18.jpg",
+        "servings": 4,
+        "prep_time": "10 mins",
+        "cook_time": "30 mins",
+        "recipe_directions": {
+            "1": "Cook the noodle as per the packet instruction and keep aside",
+            "2": "Make sure all veggies and herbs are cleaned, dried, and set out before you start. Dip a sheet of rice paper wrapper into water very quickly, no longer than a second or two (or they will get too soggy) and lay flat on a work surface",
+            "3": "On one edge, lay a small handful of noodles, some shrimp, some coriander and mint leaves, a lettuce leaf, some cucumber strips carrot and spring onion and bean sprouts, all to taste but don't over stuff",
+            "4": "Carefully start to roll up, burrito style, tucking in the sides, then continue to roll up but not too tightly or the spring roll will split",
+            "5": "These rolls will be thicker than the typical Chinese-style fried spring rolls",
+            "6": "Combine a few spoon full of Hoisin sauce and chilly sauce with some chopped peanuts to use as a dipping sauce. I like to put a few drops of sauce even inside the stuffing, but that entirely is up to you",
+            "7": "Serve immediately - these do not keep and will harden up in the fridge, so it is best to make just as many as you plan to serve"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "packet  clear edible rice paper sheets",
+                "category": ""
+            },
+            {
+                "quantity": "200",
+                "unit_name": "gms",
+                "name": "cooked shrimp (peeled, deveined, halved), small",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "bunch fresh cilantro leaves",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "bunch fresh mint leaves",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "head  lettuce (washed and separated into leaves)",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "gms",
+                "name": "cucumber (cut into very, very thin strips), peeled",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "gms",
+                "name": "carrot (cut into thin strips), peeled",
+                "category": ""
+            },
+            {
+                "quantity": "50",
+                "unit_name": "gms",
+                "name": "spring onion, julienne",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "gms",
+                "name": "fresh bean sprouts (optional)",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "packet  vermicelli rice noodles, prepared according to package directions",
+                "category": ""
+            },
+            {
+                "name": "to taste Hoisin sauce and sweet chilly sauce",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Peanuts, chopped",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Vietnamese",
+        "recipe_courses": [
+            "Side Dishes"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian",
+            "Gluten-free"
+        ]
+    },
+    {
+        "title": "Schezwan paneer Recipe",
+        "author": "Chengfeng",
+        "description": "Crispy deep fried paneer along with variety of sauce and spices make this recipe a perfect Indo-chinese appetizer. .",
+        "photo_url": "https://c.ndtvimg.com/2020-07/0ad3kjng_chilli-paneer_625x300_27_July_20.jpg",
+        "servings": 2,
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "recipe_directions": {
+            "1": "Soak Dried red chillies in water for 10 mins then grind coarsely",
+            "2": "In a bowl, add cornflour, some salt, 1tspn black pepper, water and prepare a slurry to marinate paneer for atleast 10 mins",
+            "3": "After 10 mins shallow fry the paneer and keep it aside. Don\u2019t throw the marinade, we will need this for the gravy",
+            "4": "In a pan heat some oil, add chopped ginger garlic and sautee for a while",
+            "5": "Add spring onions, Chilly paste and schezwan peppercorns and let it cook for some time",
+            "6": "To the chilli paste, add vinegar and soy sauce according to your liking. Then cook until the masala leaves some oil on the sides",
+            "7": "Add diced onions and Capsicum and stir",
+            "8": "Get the remaining marinade, add water to it and add this to the pan. Let is cook and thicken to your desired consistency",
+            "9": "Just 2 mins before it reaches your desired consistency, toss in the paneer and adjust salt and pepper according to your liking",
+            "10": "Let it simmer for a while and your Schezwan paneer is ready"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "500",
+                "unit_name": "gram",
+                "name": "Paneer",
+                "category": ""
+            },
+            {
+                "quantity": "8",
+                "unit_name": "",
+                "name": "Dried red chilli",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Chopped ginger",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tbsp",
+                "name": "Chopped garlic",
+                "category": ""
+            },
+            {
+                "quantity": "1/2",
+                "unit_name": "tbsp",
+                "name": "Chopped spring onion",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "large Diced onion",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "",
+                "name": "medium Capsicum diced",
+                "category": ""
+            },
+            {
+                "quantity": "5",
+                "unit_name": "",
+                "name": "Schezwan peppercorns",
+                "category": ""
+            },
+            {
+                "quantity": "2",
+                "unit_name": "tbsp",
+                "name": "Cornflour",
+                "category": ""
+            },
+            {
+                "quantity": "1",
+                "unit_name": "tsp",
+                "name": "Black Pepper",
+                "category": ""
+            },
+            {
+                "name": "Salt as required",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Soy sauce as required",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Vinegar as required",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Food Fusion",
+        "recipe_courses": [
+            "Main Dish"
+        ],
+        "recipe_specialdiets": [
+            "Non-Vegetarian"
+        ]
+    },
+    {
+        "title": "Simrana G & T Recipe Recipe",
+        "author": "Biswajit Biswas",
+        "description": "Blue pea flower infused gin, topped with fresh lime juice and lavender. A great spin to the classic gin and tonic.",
+        "photo_url": "https://c.ndtvimg.com/2022-06/ltioidmo_cocktail_625x300_10_June_22.jpg",
+        "servings": 1,
+        "prep_time": "05 mins",
+        "cook_time": "05 mins",
+        "recipe_directions": {
+            "1": "Take a shaker, and put the blue pea flower tea-infused gin & fresh lime juice top-up with tonic water, and mix it well",
+            "2": "To pour the cocktail take a glass and put the cocktail in",
+            "3": "For garnishing put some lavender flowers on it"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "60",
+                "unit_name": "ml",
+                "name": "Blue pea flower tea infused gin",
+                "category": ""
+            },
+            {
+                "quantity": "10",
+                "unit_name": "ml",
+                "name": "Fresh lime juice",
+                "category": ""
+            },
+            {
+                "name": "Lavender",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            },
+            {
+                "name": "Tonic water",
+                "unit_name": "",
+                "quantity": "",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "Others",
+        "recipe_courses": [
+            "Drink"
+        ],
+        "recipe_specialdiets": [
+            "Others"
+        ]
+    },
+    {
+        "title": "Thandai Macaron Recipe",
+        "author": "Rachel Goenka",
+        "description": "The very thought of soul-soothing drinks instantly remind us of Thandai. Here we bring you a modern and unique twist to the the Thandai recipe.",
+        "photo_url": "https://c.ndtvimg.com/2022-03/le1it71o_macaron_625x300_17_March_22.jpg",
+        "servings": 4,
+        "prep_time": "25 mins",
+        "cook_time": "20 mins",
+        "recipe_directions": {
+            "1": "Beat the butter until its softened and fluffy. Add white chocolate and thandai flavour and mix it well",
+            "2": "Place approximately half a table spoon of the filling on the flat side of macaron and sandwich together",
+            "3": "Before serving refrigerate the macarons for a couple of hours",
+            "4": "Gently tap the baking sheet few times on the work surface to break any air bubbles then leave it to dry for 20 minutes",
+            "5": "Bake the macaron at 130 degrees for 24 minutes",
+            "6": "Do not remove the macarons until they are cold or you will break them"
+        },
+        "recipe_ingredients": [
+            {
+                "quantity": "120",
+                "unit_name": "gram",
+                "name": "Castor Sugar",
+                "category": ""
+            },
+            {
+                "quantity": "90",
+                "unit_name": "gram",
+                "name": "Almond Powder",
+                "category": ""
+            },
+            {
+                "quantity": "80",
+                "unit_name": "gram",
+                "name": "Icing Sugar",
+                "category": ""
+            },
+            {
+                "quantity": "50",
+                "unit_name": "gram",
+                "name": "Egg white",
+                "category": ""
+            },
+            {
+                "quantity": "200",
+                "unit_name": "gram",
+                "name": "Melted White Chocolate",
+                "category": ""
+            },
+            {
+                "quantity": "100",
+                "unit_name": "gram",
+                "name": "Thandai mix",
+                "category": ""
+            },
+            {
+                "quantity": "30",
+                "unit_name": "gram",
+                "name": "Butter",
+                "category": ""
+            }
+        ],
+        "recipe_cuisine": "French",
+        "recipe_courses": [
+            "Dessert"
+        ],
+        "recipe_specialdiets": [
+            "Vegetarian"
         ]
     }
 ]
